@@ -14,5 +14,7 @@ Existe una tienda sobre la cual contamos con el dato de sus ventas del año 2023
 
 ## Resultado del análisis
 Tras realizar el análisis de la información, podemos observar que de manera general, los productos que pertenecen a la categoría de electrónica son los que más ventas han generado en este año, seguido por la categoría de ropa y por último la de belleza.
+
 Con esta información podemos tener como objetivo, el hacer más publicidad para los productos pertenecientes a la categoría de belleza, con el objetivo de incrementar las ventas de estos productos.
+
 Mientras que en la parte de ventas por género, podemos ver que ahi casi un balance entre la cantidad de hombres como la de mujeres que compran en la tienda, con esto se puede enfocar a ambos géneros la publicidad para la categoría de belleza, para continuar con un patrón de ventas similar en el año 2024 en cuanto al género.
